@@ -1,4 +1,4 @@
-# esm206-lab4-part2-ns
+# My awesome read me!
 
 -some
 -bullet 
